@@ -18,3 +18,16 @@
 # lets-git-started w/ an Emoji
 - Me bc this was easy :disappointed_relieved:
 - Me if i gave up :neckbeard:
+
+## Keyboard shortcuts
+Shortcuts I frequently use: 
+- Ctrl-C (copy)
+- Ctrl-V (paste)
+- Ctrl-Z (undo)
+- Ctrl-A (Select all)
+
+Shortcuts I would like to start using:
+- Win-D (show desktop)
+- Ctrl-N (New File)
+- Ctrl+shift+z (Redo)
+
